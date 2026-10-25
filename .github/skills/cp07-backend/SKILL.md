@@ -1,8 +1,8 @@
 ---
-agent: agent
+name: cp07-backend
 description: CP07 - implement the server-side business logic (Lab 2)
+disable-model-invocation: true
 ---
-
 Please implement the two plugin rules in
 docs/design/lab-2-server-side-business-logic.md, ValidateWarehouseTransactionPlugin
 and SubtractQuantityPlugin, using the TALXIS skills.

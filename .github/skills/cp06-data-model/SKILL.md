@@ -1,8 +1,8 @@
 ---
-agent: agent
+name: cp06-data-model
 description: CP06 - implement the data model (Lab 1)
+disable-model-invocation: true
 ---
-
 Please implement the data model in docs/design/lab-1-data-model.md
 (the Data dictionary section): the Location, Item and Transaction tables with all
 their columns, using the TALXIS skills.
