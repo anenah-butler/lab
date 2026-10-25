@@ -6,5 +6,14 @@
   "publisherPrefix": "lab",
   "repo": "anenah-butler/lab",
   "mainRulesetId": 25832044,
-  "mainRulesetName": "lab-main-protection"
+  "mainRulesetName": "lab-main-protection",
+  "devEnvUrl": "https://orgf790fbc7.crm.dynamics.com",
+  "testEnvUrl": "https://warehousedev7160.crm.dynamics.com",
+  "devEnvId": "8d4daf82-5301-e550-8fb2-a966d133bc14",
+  "testEnvId": "ccce1502-b6b9-e5e6-a497-0eb878a31d08",
+  "devOrgId": "11b55993-a1d0-f111-be87-6045bd06d90f",
+  "testOrgId": "19b55993-a1d0-f111-be87-6045bd06d903",
+  "devProfile": "dev",
+  "testProfile": "test",
+  "appId": "5c6287b6-fe76-4bf8-81b5-ad5b2a85e0e8"
 }
