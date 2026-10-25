@@ -1,8 +1,8 @@
 ---
-agent: agent
+name: cp09a-model-driven-app
 description: CP09a - implement the Warehouse model-driven app (Lab 4)
+disable-model-invocation: true
 ---
-
 Please implement the manager's Warehouse Management app from docs/design/lab-4-user-interface.md,
 using the TALXIS skills. That's user stories US-01 to US-05 and the technical
 specification sections "Solution and model-driven app", "Script library" and "TALXIS Grid

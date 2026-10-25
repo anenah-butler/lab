@@ -1,8 +1,8 @@
 ---
-agent: agent
+name: cp09b-code-app
 description: CP09b - implement the Warehouse Picking code app (Lab 4)
+disable-model-invocation: true
 ---
-
 Please implement the Warehouse Picking code app from docs/design/lab-4-user-interface.md,
 using the TALXIS skills. That's user stories US-06 to US-12 and the technical
 specification section "Warehouse Picking code app".

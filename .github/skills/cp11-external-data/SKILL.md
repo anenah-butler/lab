@@ -1,8 +1,8 @@
 ---
-agent: agent
-description: CP11 - integrate external data (Lab 5, parts A to D)
+name: cp11-external-data
+description: "CP11 - integrate external data (Lab 5, parts A to D)"
+disable-model-invocation: true
 ---
-
 Please implement parts A to D of
 docs/design/lab-5-external-data-and-background-processing.md using the TALXIS skills:
 the Product table, the Open Food Facts custom connector, wiring both into the

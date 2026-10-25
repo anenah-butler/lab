@@ -1,8 +1,8 @@
 ---
-agent: agent
+name: cp08-security
 description: CP08 - implement security roles (Lab 3)
+disable-model-invocation: true
 ---
-
 Please implement the security roles in docs/design/lab-3-security.md:
 Warehouse manager and Warehouse worker, using the TALXIS skills.
 
